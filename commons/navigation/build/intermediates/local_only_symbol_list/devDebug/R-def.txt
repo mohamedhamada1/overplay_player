@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id catalog_flow
+id main_nav_graph
+navigation catalog_flow
+navigation main_nav_graph

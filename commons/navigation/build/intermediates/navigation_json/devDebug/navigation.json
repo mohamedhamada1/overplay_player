@@ -1,0 +1,14 @@
+[
+  {
+    "name": "catalog_flow",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "main_nav_graph",
+    "navigationXmlIds": [
+      "catalog_flow"
+    ],
+    "deepLinks": []
+  }
+]
