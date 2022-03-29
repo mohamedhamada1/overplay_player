@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id TVCounter
+id fragmentPlayer
+id video_player
+layout fragment_player_view
+navigation catalog_flow
+string allow
+string deny
+string rational_title
+string read_external_permission_denied_msg
+string read_external_rational_desc
+string write_external_permission_denied_msg
+string write_external_rational_desc

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="usa.overplay.task.features.player" >
+
+    <uses-sdk
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:minSdkVersion="19"
+        android:targetSdkVersion="30" />
+
+    <dist:module
+        xmlns:dist="http://schemas.android.com/apk/distribution"
+        dist:instant="true" >
+        <dist:delivery xmlns:dist="http://schemas.android.com/apk/distribution" >
+            <dist:install-time xmlns:dist="http://schemas.android.com/apk/distribution" />
+        </dist:delivery>
+
+        <dist:fusing
+            xmlns:dist="http://schemas.android.com/apk/distribution"
+            dist:include="false" />
+    </dist:module>
+
+    <uses-permission
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+</manifest>
