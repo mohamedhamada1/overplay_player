@@ -1,11 +1,11 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="uk.endclothing.task.commons.navigation" >
+3    package="usa.overplay.task.commons.navigation" >
 4
 5    <uses-sdk
 6        android:minSdkVersion="19"
-6-->/Users/mshaaban/AndroidStudioProjects/task/commons/navigation/src/main/AndroidManifest.xml
+6-->/Users/mshaaban/overplay/commons/navigation/src/main/AndroidManifest.xml
 7        android:targetSdkVersion="30" />
-7-->/Users/mshaaban/AndroidStudioProjects/task/commons/navigation/src/main/AndroidManifest.xml
+7-->/Users/mshaaban/overplay/commons/navigation/src/main/AndroidManifest.xml
 8
 9</manifest>

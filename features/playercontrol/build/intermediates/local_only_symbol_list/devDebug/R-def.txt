@@ -4,7 +4,7 @@ id TVCounter
 id fragmentPlayer
 id video_player
 layout fragment_player_view
-navigation catalog_flow
+navigation player_flow
 string allow
 string deny
 string rational_title

@@ -2,8 +2,8 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/main_nav_graph"
-    app:startDestination="@id/catalog_flow">
-    <include app:graph="@navigation/catalog_flow" />
+    app:startDestination="@id/player_flow">
+    <include app:graph="@navigation/player_flow" />
 
 
 </navigation>

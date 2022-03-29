@@ -1,12 +1,12 @@
-package uk.overplay.task.commons.ui.bindings
+package usa.overplay.task.commons.ui.bindings
 
-import uk.overplay.task.commons.ui.recyclerview.RecyclerViewHorizontalSpaceItemDecoration
+import usa.overplay.task.commons.ui.recyclerview.RecyclerViewHorizontalSpaceItemDecoration
 import androidx.annotation.DrawableRes
 import androidx.core.content.ContextCompat
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.RecyclerView
-import uk.overplay.task.commons.ui.recyclerview.RecyclerViewSpaceItemDecoration
+import usa.overplay.task.commons.ui.recyclerview.RecyclerViewSpaceItemDecoration
 
 @BindingAdapter("itemDecorationSpacing")
 fun RecyclerView.setItemDecorationSpacing(

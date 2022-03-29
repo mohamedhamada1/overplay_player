@@ -1,5 +1,7 @@
 package dependencies
 
+import org.antlr.v4.tool.BuildDependencyGenerator
+
 object Dependencies {
     const val KOTLIN = "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${BuildDependenciesVersions.KOTLIN}"
     const val APPCOMPAT = "androidx.appcompat:appcompat:${BuildDependenciesVersions.APPCOMPAT}"
@@ -14,7 +16,6 @@ object Dependencies {
     const val CORE_KTX = "androidx.core:core-ktx:${BuildDependenciesVersions.CORE_KTX}"
     const val FRAGMENT_KTX = "androidx.fragment:fragment-ktx:${BuildDependenciesVersions.FRAGMENT_KTX}"
     const val CONSTRAIN_LAYOUT = "androidx.constraintlayout:constraintlayout:${BuildDependenciesVersions.CONSTRAIN_LAYOUT}"
-   // const val SWIPE_REFRESH_LAYOUT = "androidx.swiperefreshlayout:swiperefreshlayout:${BuildDependenciesVersions.SWIPE_REFRESH_LAYOUT}"
     const val DAGGER = "com.google.dagger:dagger:${BuildDependenciesVersions.DAGGER}"
     const val TIMBER = "com.jakewharton.timber:timber:${BuildDependenciesVersions.TIMBER}"
     const val RETROFIT = "com.squareup.retrofit2:retrofit:${BuildDependenciesVersions.RETROFIT}"
@@ -28,4 +29,9 @@ object Dependencies {
     const val MULTIDEX = "androidx.multidex:multidex:${BuildDependenciesVersions.MULTIDEX}"
     const val PERMISSION_DISPATCHER = "com.github.permissions-dispatcher:ktx:${BuildDependenciesVersions.PERMISSION_DISPATCHER}"
     const val DESUGAR_JDK = "com.android.tools:desugar_jdk_libs:${BuildDependenciesVersions.DESUGAR_JDK}"
+    const val EXO_PLAYER_CORE = "com.google.android.exoplayer:exoplayer-core:${BuildDependenciesVersions.EXO_PLAYER_VERSION}"
+    const val EXO_PLAYER_DASH = "com.google.android.exoplayer:exoplayer-dash:${BuildDependenciesVersions.EXO_PLAYER_VERSION}"
+    const val EXO_PLAYER_UI = "com.google.android.exoplayer:exoplayer-ui:${BuildDependenciesVersions.EXO_PLAYER_VERSION}"
+    const val LOCATION="com.google.android.gms:play-services-location:${BuildDependenciesVersions.LOCATION}"
+
 }

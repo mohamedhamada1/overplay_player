@@ -1,4 +1,4 @@
-uk.endclothing.task.commons.navigation
+usa.overplay.task.commons.navigation
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -699,7 +699,6 @@ id async
 id blocking
 id bottom
 id buttonPanel
-id catalog_flow
 id checkbox
 id chronometer
 id content
@@ -745,6 +744,7 @@ id notification_main_column_container
 id onAttachStateChangeListener
 id onDateChanged
 id parentPanel
+id player_flow
 id progress_circular
 id progress_horizontal
 id radio
@@ -854,8 +854,8 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu example_menu
 menu example_menu2
-navigation catalog_flow
 navigation main_nav_graph
+navigation player_flow
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

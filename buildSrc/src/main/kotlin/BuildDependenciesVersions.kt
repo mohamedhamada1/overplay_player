@@ -25,6 +25,8 @@ object BuildDependenciesVersions {
     const val MULTIDEX = "2.0.1"
     const val PERMISSION_DISPATCHER = "1.0.5"
     const val DESUGAR_JDK="1.1.5"
+    const val EXO_PLAYER_VERSION="2.12.0"
+    const val LOCATION="18.0.0"
 
     // Tests
     const val TEST = "1.3.0"

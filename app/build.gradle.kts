@@ -76,11 +76,10 @@ android {
 }
 
 dependencies {
-    implementation(project(BuildModules.CORE))
     implementation(project(BuildModules.Commons.NAVIGATION))
     implementation(project(BuildModules.Commons.UI))
     //=== Features ===
-    implementation(project(BuildModules.Features.CATALOG))
+    implementation(project(BuildModules.Features.PLAYER))
     //===============
 
     implementation(Dependencies.MATERIAL)

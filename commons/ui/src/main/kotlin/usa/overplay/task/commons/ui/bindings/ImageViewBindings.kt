@@ -1,6 +1,6 @@
-package uk.overplay.task.commons.ui.bindings
+package usa.overplay.task.commons.ui.bindings
 
-import uk.overplay.task.commons.ui.extensions.getColorCompat
+import usa.overplay.task.commons.ui.extensions.getColorCompat
 import android.graphics.Bitmap
 import android.graphics.drawable.BitmapDrawable
 import android.graphics.drawable.ColorDrawable
@@ -13,7 +13,7 @@ import coil.load
 import coil.request.ImageRequest
 import coil.target.PoolableViewTarget
 import coil.transform.CircleCropTransformation
-import uk.overplay.task.commons.ui.R
+import usa.overplay.task.commons.ui.R
 
 @BindingAdapter("imageUrl", "imagePlaceholder", "imageFail", "isCircle", requireAll = false)
 fun ImageView.imageUrl(

@@ -1,6 +1,6 @@
-package uk.overplay.task.commons.ui.base
+package usa.overplay.task.commons.ui.base
 
-import uk.overplay.task.commons.navigation.IS_NAVIGATING_TO_DESTINATION_ARG
+import usa.overplay.task.commons.navigation.IS_NAVIGATING_TO_DESTINATION_ARG
 import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater

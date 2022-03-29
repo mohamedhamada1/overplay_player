@@ -1,6 +1,6 @@
-package uk.overplay.task.commons.ui.extensions
+package usa.overplay.task.commons.ui.extensions
 
-import uk.overplay.task.commons.ui.livedata.SingleMediatorLiveData
+import usa.overplay.task.commons.ui.livedata.SingleMediatorLiveData
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MediatorLiveData
 

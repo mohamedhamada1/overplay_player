@@ -11,7 +11,6 @@ import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.LiveData
-import timber.log.Timber
 import usa.overplay.task.commons.ui.livedata.SingleLiveData
 import javax.inject.Inject
 import kotlin.math.cos
@@ -41,7 +40,7 @@ class CustomSensorManager @Inject constructor(
         event?.let {
             handleShakeSensor(it)
             handleGyroScopeSensor(it)
-            handleGyroScopeSensorForAngle(it)
+            //handleGyroScopeSensorForAngle(it)
         }
     }
 
@@ -81,24 +80,15 @@ class CustomSensorManager @Inject constructor(
         }
     }
 
-
+// i just kept it simple for now i have to get angle from that values
     private fun handleGyroScopeSensor(event: SensorEvent) {
-
         if (event.sensor.type == Sensor.TYPE_GYROSCOPE){
-            Timber.d(
-                "position_is${event.values[0]}   ,   ${
-                        event.values[1]
-                }   ,  ${event.values[2]},"
-            )
             _rotationChange.value = RotationChanges(event.values[0],event.values[1],event.values[2])
         }
 
-
-        // User code should concatenate the delta rotation we computed with the current rotation
-        // in order to get the updated rotation.
-        // val rotationCurrent = rotationCurrent * deltaRotationMatrix
     }
-
+    // TODO should get angle by this way but i didn't find any clear documentation
+    // i belive i have to read more in that area related to gryscope sensor
     private fun handleGyroScopeSensorForAngle(event: SensorEvent) {
         // This timestep's delta rotation to be multiplied by the current rotation
         // after computing it from the gyro sample data.
@@ -144,25 +134,15 @@ class CustomSensorManager @Inject constructor(
                     }
                 }
 
-                Timber.d(
-                    "locationis_${Math.toDegrees(product[0].toDouble())}   ,   ${
-                        Math.toDegrees(
-                            product[1].toDouble()
-                        )
-                    }   ,  ${Math.toDegrees(product[2].toDouble())},"
-                )
-
                 // User code should concatenate the delta rotation we computed with the current rotation
                 // in order to get the updated rotation.
-                // rotationCurrent = rotationCurrent * deltaRotationMatrix; // TODO should handle this
+                // rotationCurrent = rotationCurrent * deltaRotationMatrix;
+                // TODO should handle this, as documentation this should give me correct angle, but this doen't happen
 
             }
             timestamp = event.timestamp
 
         }
-        // User code should concatenate the delta rotation we computed with the current rotation
-        // in order to get the updated rotation.
-        // val rotationCurrent = rotationCurrent * deltaRotationMatrix
     }
 
 

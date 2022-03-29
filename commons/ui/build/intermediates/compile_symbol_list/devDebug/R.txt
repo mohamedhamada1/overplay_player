@@ -2511,7 +2511,6 @@ int id bottom 0x0
 int id bounce 0x0
 int id buttonPanel 0x0
 int id cancel_button 0x0
-int id catalog_flow 0x0
 int id center 0x0
 int id chain 0x0
 int id checkbox 0x0
@@ -2696,6 +2695,7 @@ int id path 0x0
 int id pathRelative 0x0
 int id percent 0x0
 int id pin 0x0
+int id player_flow 0x0
 int id position 0x0
 int id postLayout 0x0
 int id progress_circular 0x0
@@ -2971,8 +2971,8 @@ int layout text_view_with_theme_line_height 0x0
 int layout text_view_without_line_height 0x0
 int menu example_menu 0x0
 int menu example_menu2 0x0
-int navigation catalog_flow 0x0
 int navigation main_nav_graph 0x0
+int navigation player_flow 0x0
 int plurals mtrl_badge_content_description 0x0
 int string abc_action_bar_home_description 0x0
 int string abc_action_bar_up_description 0x0

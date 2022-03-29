@@ -1,4 +1,4 @@
-usa.overplay.task.features.player
+usa.overplay.task.features.playercontrol
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -2850,7 +2850,6 @@ id buttonPanel
 id cancel_action
 id cancel_button
 id carryVelocity
-id catalog_flow
 id center
 id chain
 id checkbox
@@ -3112,6 +3111,7 @@ id path
 id pathRelative
 id percent
 id pin
+id player_flow
 id position
 id postLayout
 id progress_circular
@@ -3436,8 +3436,8 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu example_menu
 menu example_menu2
-navigation catalog_flow
 navigation main_nav_graph
+navigation player_flow
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description

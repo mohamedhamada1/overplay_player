@@ -1,13 +1,13 @@
 [
   {
-    "name": "catalog_flow",
+    "name": "player_flow",
     "navigationXmlIds": [],
     "deepLinks": []
   },
   {
     "name": "main_nav_graph",
     "navigationXmlIds": [
-      "catalog_flow"
+      "player_flow"
     ],
     "deepLinks": []
   }

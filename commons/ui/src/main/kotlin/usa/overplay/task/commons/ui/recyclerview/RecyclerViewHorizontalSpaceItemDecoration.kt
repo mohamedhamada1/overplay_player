@@ -1,9 +1,9 @@
-package uk.overplay.task.commons.ui.recyclerview
+package usa.overplay.task.commons.ui.recyclerview
 
 import android.graphics.Rect
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView
-import uk.overplay.task.commons.ui.extensions.isAr
+import usa.overplay.task.commons.ui.extensions.isAr
 
 class RecyclerViewHorizontalSpaceItemDecoration(
     private val horizontalSpacePx: Int,

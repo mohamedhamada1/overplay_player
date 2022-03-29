@@ -1,4 +1,4 @@
-package uk.overplay.task.commons.ui.recyclerview
+package usa.overplay.task.commons.ui.recyclerview
 
 import android.graphics.Rect
 import android.view.View

@@ -7,7 +7,6 @@ plugins {
 }
 
 dependencies {
-    implementation(project(BuildModules.CORE))
     implementation(Dependencies.NAVIGATION_FRAGMENT)
     implementation(Dependencies.CORE_KTX)
     implementation(Dependencies.FRAGMENT_KTX)

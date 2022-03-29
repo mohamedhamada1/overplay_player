@@ -1,4 +1,4 @@
-package uk.overplay.task.commons.ui;
+package usa.overplay.task.commons.ui;
 
 import android.util.SparseArray;
 import android.util.SparseIntArray;
@@ -64,10 +64,9 @@ public class DataBinderMapperImpl extends DataBinderMapper {
 
   @Override
   public List<DataBinderMapper> collectDependencies() {
-    ArrayList<DataBinderMapper> result = new ArrayList<DataBinderMapper>(3);
+    ArrayList<DataBinderMapper> result = new ArrayList<DataBinderMapper>(2);
     result.add(new androidx.databinding.library.baseAdapters.DataBinderMapperImpl());
-    result.add(new uk.overplay.task.commons.navigation.DataBinderMapperImpl());
-    result.add(new uk.overplay.task.core.DataBinderMapperImpl());
+    result.add(new usa.overplay.task.commons.navigation.DataBinderMapperImpl());
     return result;
   }
 

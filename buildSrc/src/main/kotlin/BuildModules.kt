@@ -1,10 +1,9 @@
 object BuildModules {
     const val APP = ":app"
-    const val CORE = ":core"
 
     object Features {
         // add all your features
-        const val CATALOG = ":features:catalog"
+        const val PLAYER = ":features:playercontrol"
     }
 
     object Commons {

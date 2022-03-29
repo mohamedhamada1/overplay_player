@@ -17,7 +17,6 @@ plugins {
 }
 
 dependencies {
-    implementation(project(BuildModules.CORE))
     implementation(project(BuildModules.Commons.NAVIGATION))
     implementation(project(BuildModules.Commons.UI))
 

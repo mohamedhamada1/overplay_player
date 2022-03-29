@@ -1,4 +1,4 @@
-package uk.overplay.task.commons.ui.base
+package usa.overplay.task.commons.ui.base
 
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewbinding.ViewBinding

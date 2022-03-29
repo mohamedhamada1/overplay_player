@@ -8,7 +8,6 @@ plugins {
 }
 
 dependencies {
-    implementation(project(BuildModules.CORE))
     implementation(project(BuildModules.Commons.NAVIGATION))
     implementation(Dependencies.LIFECYCLE_VIEWMODEL)
     implementation(Dependencies.RECYCLE_VIEW)

@@ -1,4 +1,4 @@
-package uk.overplay.task.commons.ui.bindings
+package usa.overplay.task.commons.ui.bindings
 
 
 import android.view.View
