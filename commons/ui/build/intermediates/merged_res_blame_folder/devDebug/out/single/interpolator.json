@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/mtrl_linear.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    }
+]

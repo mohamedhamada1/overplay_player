@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mshaaban/overplay/commons/ui/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

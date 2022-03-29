@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/res/merged/dev/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/abc47cd78e55e714b662a1e3f30b1069/transformed/core-1.7.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/res/merged/dev/debug/layout/notification_action.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/abc47cd78e55e714b662a1e3f30b1069/transformed/core-1.7.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/res/merged/dev/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/abc47cd78e55e714b662a1e3f30b1069/transformed/core-1.7.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/res/merged/dev/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/abc47cd78e55e714b662a1e3f30b1069/transformed/core-1.7.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/res/merged/dev/debug/layout/custom_dialog.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/abc47cd78e55e714b662a1e3f30b1069/transformed/core-1.7.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/res/merged/dev/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/abc47cd78e55e714b662a1e3f30b1069/transformed/core-1.7.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

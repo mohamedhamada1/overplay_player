@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="rational_title">Permission not permitted</string>
+    <string name="read_external_permission_denied_msg">Permission denied, can\'t upload document</string>
+    <string name="read_external_rational_desc">Can\'t upload document without this permission</string>
+    <string name="write_external_permission_denied_msg">Permission denied, can\'t download document</string>
+    <string name="write_external_rational_desc">Can\'t download document without this permission</string>
+</resources>

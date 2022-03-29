@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/navigation/catalog_flow.xml",
+        "source": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/packaged_res/dev/debug/navigation/catalog_flow.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/navigation/main_nav_graph.xml",
+        "source": "/Users/mshaaban/overplay/commons/navigation/build/intermediates/packaged_res/dev/debug/navigation/main_nav_graph.xml"
+    }
+]

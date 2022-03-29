@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/xml/standalone_badge.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/xml/standalone_badge_offset.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/xml/standalone_badge_gravity_top_start.xml"
+    }
+]

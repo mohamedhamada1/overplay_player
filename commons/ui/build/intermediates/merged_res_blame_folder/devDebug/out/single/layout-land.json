@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-land/material_clock_period_toggle_land.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-land/material_timepicker.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/layout-land/material_timepicker.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

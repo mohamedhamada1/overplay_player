@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/mshaaban/.gradle/caches/transforms-3/2c595cafae37a0b96b645658dfba62cd/transformed/material-1.4.0/res/layout-v26/mtrl_calendar_month.xml"
+    }
+]

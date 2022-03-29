@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mshaaban/overplay/commons/ui/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mshaaban/overplay/commons/ui/build/intermediates/res/merged/dev/debug/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/mshaaban/.gradle/caches/transforms-3/14f855a8ba483e0896b54c6d8c3ee009/transformed/appcompat-1.2.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
